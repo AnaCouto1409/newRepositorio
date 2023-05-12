@@ -1,5 +1,5 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <img alt="Vue logo" src="../github.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
 </template>
 
@@ -21,6 +21,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
+  background-color: #7e459b;
   margin-top: 60px;
 }
 </style>
