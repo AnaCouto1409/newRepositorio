@@ -1,6 +1,9 @@
 <template>
   <img alt=" " src="./github.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <Header />
+  <Components />
+  <Assets/>
 </template>
 
 <script>
