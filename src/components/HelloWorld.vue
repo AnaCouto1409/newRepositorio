@@ -12,6 +12,7 @@
        Exercitationem quae voluptas mollitia perspiciatis nihil ipsam quod amet! Facere,
        tenetur quod eveniet suscipit maiores quisquam dolore fugiat voluptatibus deleniti, rerum consequuntur.</p>
   </div>
+  <footer>Feito com muito amor,2023</footer>
 </template>
 
 <script>
